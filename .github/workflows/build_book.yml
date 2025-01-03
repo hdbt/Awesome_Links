@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
  # schedule:
     # run every day at 11 PM
- #   - cron: '0 23 * * *'
+    - cron: '0 7 * * *'
 
 name: Render and deploy Book to Netlify
 

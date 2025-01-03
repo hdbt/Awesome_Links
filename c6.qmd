@@ -1,0 +1,53 @@
+# Chapter 6: Climate, Environment, and Policy
+
+- **Global food systems transitions… (Nature Food)**
+  <https://www.nature.com/articles/s43016-022-00588-7>
+
+- **Climate anxiety, wellbeing and pro-environmental action… (ScienceDirect)**
+  <https://www.sciencedirect.com/science/article/pii/S0272494422001323?via%3Dihub>
+
+- **Sample Size Requirements for a Bayesian Factorial Study (also environment mentions)**
+  <https://www.r-bloggers.com/2021/10/sample-size-requirements-for-a-bayesian-factorial-study-design/>
+  (Note: already under Bayesian, but also relevant to COVID19)
+
+- **Global biodiversity summit kicks off in Colombia : NPR**
+  <https://www.npr.org/2024/10/18/nx-s1-5147426/cop16-biodiversity-summit>
+
+- **CO2-Preis als Investitionsanreiz für Privathaushalte (RWI Essen)**
+  <https://www.rwi-essen.de/presse/wissenschaftskommunikation/pressemitteilungen/detail/rwi-viele-kennen-wirkungsweise-und-folgen-des-co2-preises-nicht>
+
+- **Carbon taxation: A review of the empirical literature (Wiley)**
+  <https://onlinelibrary.wiley.com/doi/full/10.1111/joes.12531>  [Add to Citavi project by DOI]
+
+- **Carbon Pricing Initiatives Around the World – Visual Capitalist**
+  <https://www.visualcapitalist.com/cp/carbon-pricing-initiatives-around-the-world/>
+
+- **EU Emissions Trading System (ETS) effective January 1, 2024 – Maersk**
+  <https://www.maersk.com/news/articles/2023/09/15/eu-emissions-trading-system-ets?exit=Newsletter>
+
+- **Do Ostrom’s rules for governing the commons scale up?**
+  <https://jacobedenhofer.substack.com/p/do-ostroms-rules-for-governing-the?r=2pppfh&utm_campaign=post&utm_medium=web>
+
+- **Warum wir mehr über den individuellen CO2-Fussabdruck wissen sollten | ETH Zürich**
+  <https://ethz.ch/de/news-und-veranstaltungen/eth-news/news/2024/01/blog-warum-wir-mehr-ueber-den-individuellen-co2-fussabdruck-wissen-sollten.html>
+
+- **Tackling inequality is essential for behaviour change for net zero | Nature Climate Change**
+  <https://www.nature.com/articles/s41558-023-01900-4>
+
+- **Americans experience a false social reality by underestimating popular climate policy support…**
+  <https://www.nature.com/articles/s41467-022-32412-y>
+
+- **Extreme weather events do not increase political parties’ environmental attention | Nature Climate Change**
+  <https://www.nature.com/articles/s41558-024-02024-z>
+
+- **Increase in concerns about climate change following climate strikes… (Nature Communications)**
+  <https://www.nature.com/articles/s41467-024-46477-4>
+
+- **Carbon inequality and support for carbon taxation – EJPR**
+  <https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12647>  [Add to Citavi project by DOI]
+
+- **The Sad Truth about Happiness Scales | Journal of Political Economy**
+  <https://www.journals.uchicago.edu/doi/10.1086/701679>  [Add to Citavi project by DOI]
+
+- **A Practical Guide to Counterfactual Estimators for Causal Inference with Time‐Series Cross‐Sectional Data (Wiley)**
+  <https://onlinelibrary.wiley.com/doi/10.1111/ajps.12723>

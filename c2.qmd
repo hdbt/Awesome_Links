@@ -1,0 +1,47 @@
+# Chapter 2: R, Data Science, and Visualization
+
+## General R & Data Science
+
+- **Optimizing my search for Data scientist jobs by scraping Indeed with R | R-bloggers**
+  <https://www-r--bloggers-com.cdn.ampproject.org/v/s/www.r-bloggers.com/2022/09/optimizing-my-search-for-data-scientist-jobs-by-scraping-indeed-with-r/amp/>
+
+- **The COVID19 package, an interface to the COVID-19 Data Hub · R Views**
+  <https://rviews.rstudio.com/2021/12/08/the-r-package-covid19/>
+
+- **Creating a Dashboard Framework with AWS (Part 1) | R-bloggers**
+  <https://www.r-bloggers.com/2022/03/creating-a-dashboard-framework-with-aws-part-1/>
+
+- **How to Win the RStudio Shiny Contest | R-bloggers**
+  <https://www.r-bloggers.com/2022/01/how-to-win-the-rstudio-shiny-contest/>
+
+- **I got my first package onto CRAN, and YOU CAN TOO | R-bloggers**
+  <https://www.r-bloggers.com/2021/11/i-got-my-first-package-onto-cran-and-you-can-too-2/>
+
+- **Map any region in the world with R – Part IV: Object Oriented Programming in R with S3 | R-bloggers**
+  <https://www.r-bloggers.com/2023/09/map-any-region-in-the-world-with-r-part-iv-object-oriented-programming-in-r-with-s3/>
+
+- **Upcoming changes to popular R packages for spatial data: what you need to do – geocompx**
+  <https://geocompx.org/post/2023/rgdal-retirement/>
+
+- **A demo of power estimation by simulation for a cluster randomized trial with a time-to-event outcome | R-bloggers**
+  <https://www.r-bloggers.com/2023/05/a-demo-of-power-estimation-by-simulation-for-a-cluster-randomized-trial-with-a-time-to-event-outcome/>
+
+- **Iterating on the GSS | R-bloggers**
+  <https://www.r-bloggers.com/2022/04/iterating-on-the-gss/>
+
+- **An IV study design to estimate an effect size when randomization is not ethical | R-bloggers**
+  <https://www.r-bloggers.com/2024/09/an-iv-study-design-to-estimate-an-effect-size-when-randomization-is-not-ethical/>
+
+- **Spatial Data Science (r-spatial.org Book)**
+  <https://r-spatial.org/book/>
+
+  ## Data Visualization & Web Tools
+
+- **10 ways to use fewer colors in your data visualizations – Datawrapper Blog**
+  <https://blog.datawrapper.de/10-ways-to-use-fewer-colors-in-your-data-visualizations/>
+
+- **The css chrome dev tool you didn't know of – DEV Community**
+  <https://dev.to/harsvnc/the-css-chrome-dev-tool-you-didnt-know-of-3155>
+
+- **Social Media Research Toolkit – Social Media Lab**
+  <https://socialmedialab.ca/apps/social-media-research-toolkit-2/>

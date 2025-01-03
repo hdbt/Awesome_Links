@@ -1,0 +1,38 @@
+# Chapter 3: Bayesian Methods & Statistics
+
+- **Sample size requirements for a Bayesian factorial study design | R-bloggers**
+  <https://www.r-bloggers.com/2021/10/sample-size-requirements-for-a-bayesian-factorial-study-design/>
+
+- **How to use Bayesian propensity scores and inverse probability weights | Andrew Heiss**
+  <https://www.andrewheiss.com/blog/2021/12/18/bayesian-propensity-scores-weights/>
+
+- **Bayesian Regression Analysis with Rstanarm | R-bloggers**
+  <https://www.r-bloggers.com/2021/09/bayesian-regression-analysis-with-rstanarm/>
+
+- **Finally! Bayesian Hierarchical Modelling at Scale – Florian Wilhelm’s blog**
+  <https://florianwilhelm.info/2020/10/bayesian_hierarchical_modelling_at_scale/>
+
+- **Subgroup analysis using a Bayesian hierarchical model | R-bloggers**
+  <https://www.r-bloggers.com/2021/08/subgroup-analysis-using-a-bayesian-hierarchical-model/>
+
+- **Bayesian Hierarchical Modeling in PyMC | Towards Data Science**
+  <https://towardsdatascience.com/bayesian-hierarchical-modeling-in-pymc3-d113c97f5149>
+
+- **How to do Bayesian Linear Regression in JASP**
+  <https://jasp-stats.org/2020/11/26/how-to-do-bayesian-linear-regression-in-jasp-a-case-study-on-teaching-statistics/>
+
+- **A guide to working with country-year panel data and Bayesian multilevel models | Andrew Heiss**
+  <https://www.andrewheiss.com/blog/2021/12/01/multilevel-models-panel-data-guide/>
+
+- **Does Prior for intercept need to be WIDER than prior for slope… – Cross Validated**
+  <https://stats.stackexchange.com/questions/279970/does-prior-for-intercept-need-to-be-wider-than-prior-for-slope-in-simple-linear>
+
+- **The COVID19 package, an interface to the COVID-19 Data Hub (another link)**
+  <https://rviews.rstudio.com/2021/12/08/the-r-package-covid19/>
+  (Note: duplicate mention above in R & Data Science, included here again if you prefer referencing in both contexts)
+
+- **Analysis of Bayesian posterior significance and effect size indices…**
+  <https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-020-00968-2>  [Add to Citavi project by DOI]
+
+- **Causal inference with Bayesian models – A. Solomon Kurz**
+  <https://solomonkurz.netlify.app/blog/2023-04-30-causal-inference-with-bayesian-models/>

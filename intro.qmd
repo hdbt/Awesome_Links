@@ -1,5 +1,3 @@
 # Introduction
 
-This is a book created from markdown and executable code.
-
-See @knuth84 for additional discussion of literate programming.
+This Quarto book collects a set of links and titles, organized by overarching themes such as cooking, R/Data Science, Bayesian statistics, causal inference, environmental topics, and more. Each chapter contains a list of relevant links (title + URL).

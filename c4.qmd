@@ -1,0 +1,22 @@
+# Chapter 4: Causal Inference & Econometrics
+
+- **A win for causal inference – by Thomas Vladeck**
+  <https://tvladeck.substack.com/p/a-win-for-causal-inference>
+
+- **How to test reverse causality? – Cross Validated**
+  <https://stats.stackexchange.com/questions/441833/how-to-test-reverse-causality>
+
+- **Week 2: Linear Models & Causal Inference (Statistical Rethinking Solutions)**
+  <https://sr2-solutions.wjakethompson.com/linear-models-causal-inference.html>
+
+- **More than meets the ITT: investigating nonsignificant results in survey experiments**
+  <https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/more-than-meets-the-itt-a-guide-for-anticipating-and-investigating-nonsignificant-results-in-survey-experiments/C01250EB50598D6328B6065F1DF86BA7>
+
+- **Why are my 2SLS estimates much larger than my OLS estimates? – Economics Stack Exchange**
+  <https://economics.stackexchange.com/questions/35681/why-are-my-2sls-estimates-much-larger-than-my-ols-estimates>
+
+- **Why do we do matching for causal inference vs regressing on confounders? – Cross Validated**
+  <https://stats.stackexchange.com/questions/544926/why-do-we-do-matching-for-causal-inference-vs-regressing-on-confounders/>
+
+- **Chapter 4 Natural Experiments | Statistical Tools for Causal Inference**
+  <https://chabefer.github.io/STCI/NE.html#instrumental-variables>

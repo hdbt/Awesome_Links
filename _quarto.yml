@@ -2,12 +2,19 @@ project:
   type: book
 
 book:
-  title: "Awesome_Links"
-  author: "Norah Jones"
-  date: "2.1.2025"
+  title: "Collection of Links"
+  author: "Hamid Bulut"
+  date: "1.1.2025"
   chapters:
     - index.qmd
     - intro.qmd
+    - c1.qmd
+    - c2.qmd
+    - c3.qmd
+    - c4.qmd
+    - c5.qmd
+    - c6.qmd
+    - c7.qmd
     - summary.qmd
     - references.qmd
 
@@ -18,6 +25,3 @@ format:
     theme: cosmo
   pdf:
     documentclass: scrreprt
-
-
-

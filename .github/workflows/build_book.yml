@@ -40,7 +40,7 @@ jobs:
       - name: Render book with Quarto
         # Add any command line argument needed
         run: |
-          quarto render _book/index.qmd --to html --output-dir _book
+          quarto render --to html
 
       # - name: Deploy to Netlify
       #   #if: contains(env.isExtPR, 'false')

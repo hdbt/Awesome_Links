@@ -35,6 +35,9 @@
 - **Spatial Data Science (r-spatial.org Book)**
   <https://r-spatial.org/book/>
 
+- ** depression by countries**
+<https://freerangestats.info/blog/2025/01/03/depression-and-vote-again>
+
   ## Data Visualization & Web Tools
 
 - **10 ways to use fewer colors in your data visualizations – Datawrapper Blog**
